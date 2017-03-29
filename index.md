@@ -274,6 +274,7 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- 8th Italian Information Retrieval Workshop ([IIR 2017](http://iir2017.usi.ch/)), Università della Svizzera Italiana (USI), Lugano, June 05-07, 2017
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2017](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
 - 1st International Workshop on Application of Semantic Web technologies in Robotics - [AnSWeR 2017](http://answer.kmi.open.ac.uk/), co-located with the 14th Extended Semantic Web Conference ([ESWC 2017](http://2017.eswc-conferences.org/)) - Portoroz, Slovenia, 28 May - 1st June 2017
 - First International Workshop on Semantic Multimedia Computing ([SMC 2017](http://www.inf.unibz.it/~fpersia/smc17/), in conjunction with [IEEE ICSC 2017](http://icsc.eecs.uci.edu/2017/))

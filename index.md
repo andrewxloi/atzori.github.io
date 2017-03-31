@@ -255,6 +255,7 @@ International Journal of Geographical Information Science (<a>IJGIS</a>),
 Transactions on Data Privacy (<a>TDP</a>),
 Journal of Computer Science and Technology (<a>JCST</a>),
 Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">INS</a>),
+Journal of Parallel and Distributed Computing,
 Information Processing &amp; Management (<a>IPM</a>).
 
  - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
